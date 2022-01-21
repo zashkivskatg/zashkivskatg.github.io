@@ -327,6 +327,7 @@
   letter-spacing: 1px;
   text-transform: uppercase;
   font-weight: 600;
+  font-size: 1rem;
   margin: 0;
 }
 
@@ -389,6 +390,7 @@
   letter-spacing: 1px;
   text-transform: uppercase;
   font-weight: 600;
+  font-size: 1rem;
   margin: 0;
 }
 
@@ -451,6 +453,7 @@
   letter-spacing: 1px;
   text-transform: uppercase;
   font-weight: 600;
+  font-size: 1rem;
   margin: 0;
 }
 
@@ -513,6 +516,7 @@
   letter-spacing: 1px;
   text-transform: uppercase;
   font-weight: 600;
+  font-size: 1rem;
   margin: 0;
 }
 
@@ -553,10 +557,6 @@
     margin-right: 0;
   }
 
-  .u-section-4 .u-text-5 {
-    font-size: 1rem;
-  }
-
   .u-section-4 .u-layout-cell-2 {
     min-height: 369px;
   }
@@ -568,10 +568,6 @@
   .u-section-4 .u-text-8 {
     margin-left: 0;
     margin-right: 0;
-  }
-
-  .u-section-4 .u-text-9 {
-    font-size: 1rem;
   }
 
   .u-section-4 .u-layout-cell-3 {
@@ -587,10 +583,6 @@
     margin-right: 0;
   }
 
-  .u-section-4 .u-text-13 {
-    font-size: 1rem;
-  }
-
   .u-section-4 .u-layout-cell-4 {
     min-height: 369px;
   }
@@ -602,10 +594,6 @@
   .u-section-4 .u-text-16 {
     margin-left: 0;
     margin-right: 0;
-  }
-
-  .u-section-4 .u-text-17 {
-    font-size: 1rem;
   }
 }
 
@@ -814,6 +802,7 @@
 }
 
 .u-section-5 .u-text-3 {
+  font-size: 1.25rem;
   margin: 5px 0 0;
 }
 
@@ -910,10 +899,6 @@
 
   .u-section-5 .u-group-1 {
     margin-left: calc(((100% - 940px) / 2));
-  }
-
-  .u-section-5 .u-text-3 {
-    font-size: 1.25rem;
   }
 
   .u-section-5 .u-layout-wrap-1 {
